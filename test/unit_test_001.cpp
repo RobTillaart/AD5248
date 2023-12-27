@@ -111,9 +111,9 @@ unittest(test_write_read)
 
 unittest(test_constants)
 {
-  assertEqual(0, AD5243_OK);
-  assertEqual(100, AD5243_ERROR);
-  assertEqual(127, AD5243_MIDPOINT);
+  assertEqual(0, AD5248_OK);
+  assertEqual(100, AD5248_ERROR);
+  assertEqual(127, AD5248_MIDPOINT);
 }
 
 
