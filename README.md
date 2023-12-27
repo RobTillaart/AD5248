@@ -1,12 +1,12 @@
 
-[![Arduino CI](https://github.com/RobTillaart/AD5243/workflows/Arduino%20CI/badge.svg)](https://github.com/marketplace/actions/arduino_ci)
-[![Arduino-lint](https://github.com/RobTillaart/AD5243/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/RobTillaart/AD5243/actions/workflows/arduino-lint.yml)
-[![JSON check](https://github.com/RobTillaart/AD5243/actions/workflows/jsoncheck.yml/badge.svg)](https://github.com/RobTillaart/AD5243/actions/workflows/jsoncheck.yml)
-[![GitHub issues](https://img.shields.io/github/issues/RobTillaart/AD5243.svg)](https://github.com/RobTillaart/AD5243/issues)
+[![Arduino CI](https://github.com/RobTillaart/AD5248/workflows/Arduino%20CI/badge.svg)](https://github.com/marketplace/actions/arduino_ci)
+[![Arduino-lint](https://github.com/RobTillaart/AD5248/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/RobTillaart/AD5248/actions/workflows/arduino-lint.yml)
+[![JSON check](https://github.com/RobTillaart/AD5248/actions/workflows/jsoncheck.yml/badge.svg)](https://github.com/RobTillaart/AD5248/actions/workflows/jsoncheck.yml)
+[![GitHub issues](https://img.shields.io/github/issues/RobTillaart/AD5248.svg)](https://github.com/RobTillaart/AD5248/issues)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/RobTillaart/AD5243/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/RobTillaart/AD5243.svg?maxAge=3600)](https://github.com/RobTillaart/AD5243/releases)
-[![PlatformIO Registry](https://badges.registry.platformio.org/packages/robtillaart/library/AD5243.svg)](https://registry.platformio.org/libraries/robtillaart/AD5243)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/RobTillaart/AD5248/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/RobTillaart/AD5248.svg?maxAge=3600)](https://github.com/RobTillaart/AD5248/releases)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/robtillaart/library/AD5248.svg)](https://registry.platformio.org/libraries/robtillaart/AD5248)
 
 
 # AD5248
