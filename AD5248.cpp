@@ -44,7 +44,7 @@ bool AD5248::isConnected()
 }
 
 
-bool AD5248::getAddress()
+uint8_t AD5248::getAddress()
 {
   return _address;
 }
